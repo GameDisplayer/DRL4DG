@@ -2,7 +2,7 @@
 
 ## Goal :
 The goal of this repository is to develop a *Dialogue Agent* which generates coherent and interesting dialogues based on *Seq2Seq Model* and *Deep Reinforcement Learning approach*.
-We also would like to integrate some *emotion management* to make the agent empathetic.
+~~We also would like to integrate some *emotion management* to make the agent empathetic.~~
 
 ## Dataset :
 The dataset used is the [DailyDialog](https://arxiv.org/abs/1710.03957) dataset that you can download [here](http://yanran.li/dailydialog).
